@@ -4,7 +4,7 @@ A text editor written in python tkinter. Can perform basic operations and recogn
 ## How to install or run \:
 - For the windows users \:
 Download the file from the [link](https://drive.google.com/open?id=1uHkwO7NBLIIX5769gmfvy9fZa4OCMq-r).
-And just run the **run.exe** file.
+And just run the **tkedit.exe** file.
   
 - For the linux users who are friendly to the command line:
   - Clone or download the file from github
